@@ -1,3 +1,11 @@
+js转dex, 可以参考此仓库
+[batchJs2Dex](https://github.com/snailuncle/batchJs2Dex)
+
+webpack打包多个autojs的js文件为一个js文件, 可以参考此仓库
+[webpack-autojs](https://github.com/snailuncle/webpack-autojs)
+
+
+
 ## so中执行autojs脚本
 
 
