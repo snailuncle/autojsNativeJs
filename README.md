@@ -156,21 +156,23 @@
 
 13. 用普通版autojs执行脚本
 
-    ```js
-    /*
-     * @Author: 家
-    ```
- * @QQ: 203118908
-     * @bilibili: 晓宇小凡
-     * @versioin: 1.0
-     * @Date: 2020-05-02 23:15:47
-     * @LastEditTime: 2020-05-03 16:23:35
-     * @LastEditors: 家
-     * @Description: so中执行autojs脚本
-     * @FilePath: \autojsNativeJs\nativeJs\main.js
-     * @学习格言: 即用即学, 即学即用
-     * @加密方法是 内个球  which_who@qq.com(1366505103)  2020/05/02 23:08:50 制作完成
-     */
+   ```
+   // @Author: 家
+   // @QQ: 203118908
+   // @bilibili: 晓宇小凡
+   // @versioin: 1.0
+   // @Date: 2020-05-02 23:15:47
+   // @LastEditTime: 2020-05-03 16:23:35
+   // @LastEditors: 家
+   // @Description: so中执行autojs脚本
+   // @FilePath: \autojsNativeJs\nativeJs\main.js
+   // @学习格言: 即用即学, 即学即用
+   // @加密方法是 内个球  which_who@qq.com(1366505103)  2020/05/02 23:08:50 制作完成
+   ```
+
+
+
+   ```
     var ctx = context;
     var cwd = files.cwd();
     var dexpath=cwd+"/classes2.dex"
@@ -194,72 +196,4 @@
     	fip.transferTo(0, fip.size(), fop);
     	fip.close();fop.close();
     }
-    
-    ```
-    
-    ```
-14. String from JNI！
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-   ​	
-
-   
-
-   
-
-
-
-
-
-   
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+   ```
